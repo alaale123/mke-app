@@ -33,6 +33,11 @@ https://www.google.com
 | block A       | Content Cell  |
 | block B       | Content Cell  |
 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 :EMOJICODE: 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
