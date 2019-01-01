@@ -38,6 +38,10 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
+> Blockquote [foo].
+>
+> [foo]: /url
+
 :EMOJICODE: 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
