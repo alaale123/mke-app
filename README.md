@@ -1,9 +1,7 @@
 # mke-app
   * how you can write the readme 
- * fhdsfdsf
- * fsdfds
- alt-h1
- ======
+ * falaqayn
+ * magac 
  alt-h2
  ------
 <p> kaalay hore usoo gaadh </p>
@@ -11,6 +9,7 @@
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |</p>
+
 ## how to make an app
 ## how to install an app
 ### how to set up 
