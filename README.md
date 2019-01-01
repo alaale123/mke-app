@@ -6,9 +6,11 @@
  ======
  alt-h2
  ------
-
- *****sdfsdf
- ******sdfdsf
+<p> kaalay hore usoo gaadh </p>
+<p>Table	| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |</p>
 ## how to make an app
 ## how to install an app
 ### how to set up 
